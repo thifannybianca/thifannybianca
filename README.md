@@ -1,8 +1,9 @@
 ## Olá, sou Thifanny!
 
-•📚 Cursando o Ensino Médio e DS.
-• ❤ Sou apaixonada por ler, escrever e cozinhar.
-• 📞 Contato: (81) 98900-7885
+- 📚 Cursando o Ensino Médio e DS.
+- ❤ Sou apaixonada por ler, escrever e cozinhar
+- 📞 Contato: (81) 98900-7885
+
 
 
   
