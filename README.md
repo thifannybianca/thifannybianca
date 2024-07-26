@@ -1,7 +1,9 @@
 ## Olá, sou Thifanny!
 
-•📚 Cursando o ensino médio e desenvolvimento de sistemas
-•❤ Sou apaixonada por livros,.
+•📚 Cursando o Ensino Médio e DS.
+• ❤ Sou apaixonada por ler, escrever e cozinhar.
+• 📞 Contato: (81) 98900-7885
+
 
   
 ### 🏆 Tecnologias
